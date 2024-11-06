@@ -1,6 +1,6 @@
 # Hi! I'm Elle
 
-I'm currently learning rust and c# and pursuing a degree at the University of Portsmouth
+I'm currently struggling to develop, yet I have an endless hunger.
 
 Other interests of mine include:
 - [x] Music
