@@ -1,7 +1,6 @@
 # Hi! I'm Elle
-
-I'm currently struggling to develop, yet I have an endless hunger.
-
+Graduated with a BSc in Computer Science from the University of Portsmouth.
+Big Fan of Free Software, one day I will finish a personal project
 Other interests of mine include:
 - [x] Music
 - [x] Coffee
