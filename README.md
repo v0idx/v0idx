@@ -1,7 +1,7 @@
 # Hi! I'm Elle
 Graduated with a BSc in Computer Science from the University of Portsmouth.
 
-Big Fan of Free Software, one day I will finish a personal project
+Mainly working on paid projects, but I will get around to doing more personal work soon!
 
 Other interests of mine include:
 - [x] Music
